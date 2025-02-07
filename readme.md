@@ -10,7 +10,7 @@ One of my core strengths is my ability to thrive in collaborative environments. 
 
 I am excited about the opportunity to bring my skills in technical writing, team leadership, and cross-functional collaboration to your company. I believe my background and expertise will align well in your organization, and I am eager to contribute to your company’s further success. I look forward to the opportunity to discuss how my experience and skills can support your organization’s goals. 
 
-For more about my education, work history and specific skills, please see my [Resume](GRAHAMFREDRICKSON.pdf)
+For more about my education, work history and specific skills, please see my [Resume](GRAHAM_FREDRICKSON.pdf)
  
 
 Sincerely,   
