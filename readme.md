@@ -28,7 +28,6 @@ I have writing samples from my time writing with both Oracle and PLAYSTUDIOS:
 PLAYSTUDIOS
 - **[Admin](admin.pdf)** (Admin.pdf) — *Administrative functionality is available from the **Admin** tab of the playAWARDS Console.* 
 - **[Deeplinking and User Direction](DeepLink.pdf)** (DeepLink.pdf) — *Deeplinking refers to the process of directing users to a specific location, bypassing the need to always navigate from **Home**.* 
-- **[Loyalty Engine](Platform_Engine_Documentation.pdf)** (Platform_Engine_Documentation.pdf) —  *The playAWARDS Loyalty Engine is a containerized application that is deployed within playAWARDS.* 
 - **[playAWARDS iOS SDK Installation Guide](playAWARDS_iOS_SDK_Installation_Guide.pdf)** (playAWARDS_iOS_SDK_Installation_Guide.pdf) —  *This document is a comprehensive guide for installing the playAWARDS iOS SDK on a Mac computer running macOS.* 
 - **[playAWARDS iOS SDK Usage Guide](playAWARDS_iOS_SDK_Usage_Guide.pdf)** (playAWARDS_iOS_SDK_Usage_Guide.pdf) — *How to integrate the iOS SDK into an existing iOS application.* 
 - **[Loyalty Point Integration](playLINK_lp_integration.pdf)** (playLINK_lp_integration.pdf) — *Loyalty Points are the currency that players accumulate as a benefit of playing an application.* 
