@@ -21,7 +21,7 @@ Graham Fredrickson
 
 ## Writing Samples 
 
-I have writing samples from my time writing with both Oracle and PLAYSTUDIOS: 
+I have writing samples from my time writing with both PLAYSTUDIOS and Oracle: 
 
 > **NOTE:** I am including links to the files as well as the names of each sample file.
 
