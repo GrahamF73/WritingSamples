@@ -25,7 +25,7 @@ I have writing samples from my time writing with both Oracle and PLAYSTUDIOS:
 
 > **NOTE:** I am including links to the files as well as the names of each sample file.
 
-PLAYSTUDIOS
+**PLAYSTUDIOS**
 - **[Admin](admin.pdf)** (Admin.pdf) — *Administrative functionality is available from the **Admin** tab of the playAWARDS Console.* 
 - **[Deeplinking and User Direction](DeepLink.pdf)** (DeepLink.pdf) — *Deeplinking refers to the process of directing users to a specific location, bypassing the need to always navigate from **Home**.* 
 - **[playAWARDS iOS SDK Installation Guide](playAWARDS_iOS_SDK_Installation_Guide.pdf)** (playAWARDS_iOS_SDK_Installation_Guide.pdf) —  *This document is a comprehensive guide for installing the playAWARDS iOS SDK on a Mac computer running macOS.* 
@@ -33,7 +33,7 @@ PLAYSTUDIOS
 - **[Loyalty Point Integration](playLINK_lp_integration.pdf)** (playLINK_lp_integration.pdf) — *Loyalty Points are the currency that players accumulate as a benefit of playing an application.* 
 - **[Loyalty Center Unity Wrapper](Rewards_Store_Unity_Wrapper_Usage_Guide.pdf)** (Rewards_Store_Unity_Wrapper_Usage_Guide.pdf) — *The Loyalty Center Unity wrapper offers a standardized implementation of the playAWARDS Loyalty Center SDK for both Android and iOS platforms within Unity.* 
  
-ORACLE
+**ORACLE**
 - **[Oracle® Retail POS Suite Operations Guide Release 13.4.1](possuite-1341-og.pdf)** (possuite-1341-og.pdf) 
 - **[Oracle® Retail POS Suite Implementation Guide, Volume 1 – Implementation Solutions Release 13.4.1](possuite-1341-imp1-implementation-solutions.pdf)** (possuite-1341-imp1-implementation-solutions.pdf) 
 - **[Oracle® Retail POS Suite Implementation Guide, Volume 2 – Extension Solutions Release 13.4.1](possuite-1341-imp2-extension-solutions.pdf)** (possuite-1341-imp2-extension-solutions.pdf)  
